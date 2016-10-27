@@ -1,0 +1,45 @@
+@media screen and (min-width: 640px) {
+    body {
+        background-image: url(http://www.judosuro.de/media/images/black-lines-stripes-wood-texture-board-background-3840x2404.jpg);
+} 
+
+	#website{
+		color: black;
+		font-size: 12px;
+	}
+
+	h1{
+	color: #00e68a;
+	}
+
+	h2{
+		color: #00995c;
+	}
+
+	p{
+		color: white;
+	}
+
+	@media screen and (max-width: 1030px) {
+
+    body {
+        background-image: url(http://www.cssauthor.com/wp-content/uploads/2015/01/Dark-Wood-Planks-Texture.jpg);
+} 
+
+	#website{
+		color: black;
+		font-size: 12px;
+	}
+
+	h1{
+	color: #00e68a;
+	}
+
+	h2{
+		color: #00995c;
+	}
+
+	p{
+		color: white;
+	}
+}
