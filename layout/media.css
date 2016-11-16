@@ -1,6 +1,6 @@
 @media screen and (min-width: 640px) {
     body {
-        background-image: url(http://www.judosuro.de/media/images/black-lines-stripes-wood-texture-board-background-3840x2404.jpg);
+        background-image: url(http://psdhunter.com/psds/4256-seamless-wood-texture.jpg);
 } 
 
 	#website{
@@ -17,7 +17,7 @@
 	}
 
 	p{
-		color: white;
+		color: #ffffff;
 	}
 
 	@media screen and (max-width: 1030px) {
@@ -40,6 +40,6 @@
 	}
 
 	p{
-		color: white;
+		color: #ffffff;
 	}
 }
