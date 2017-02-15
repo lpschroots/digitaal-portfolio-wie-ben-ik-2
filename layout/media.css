@@ -1,6 +1,6 @@
 @media screen and (min-width: 640px) {
     body {
-        background-image: url(http://psdhunter.com/psds/4256-seamless-wood-texture.jpg);
+        background-image: url(bg0.png);
 } 
 
 	#website{
@@ -23,7 +23,7 @@
 	@media screen and (max-width: 1030px) {
 
     body {
-        background-image: url(http://www.cssauthor.com/wp-content/uploads/2015/01/Dark-Wood-Planks-Texture.jpg);
+        background-image: url(bg2.png);
 } 
 
 	#website{
